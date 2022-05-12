@@ -1,0 +1,211 @@
+#uno{
+    filter: brightness(1.1);
+    mix-blen-mode: multiply;
+    width:100px;
+    height:80px;
+    
+  }
+  
+  ul{
+    list-style-type: none;  
+    margin: 0;
+    padding: 0;
+    overflow: hidden;  
+    position: absolute;
+    top: 10;
+    width: 100%;
+  }
+  
+  li {
+    float: left;
+    
+    
+  }
+  
+  .dos{
+    display: inline-block;
+    vertical-align:middle;
+    margin: 20px 10px 5px 5px;  
+  }
+  
+  li a{
+    display: block;
+    color: black;
+    text-align: left;
+    padding: 7px 15px; 
+    text-decoration: none;
+    margin-right:20px;
+    text-shadow:0px 0px 0px black;
+     
+  }
+  
+  .boton1{
+    border: 1px solid black; /*anchura, estilo y color borde*/
+  padding: 10px; /*espacio alrededor texto*/
+  background-color: black; /*color botón*/
+  color: white; /*color texto*/
+  text-decoration: none; /*decoración texto*/
+  font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+  border-radius: 30px; /*bordes redondos*/
+   display: inline-block;
+   vertical-align:middle;
+   float:right;
+    margin:20px 10px 5px 5px; 
+    font-size: 15px;
+  }
+  .boton2{
+    border: 1px solid black; /*anchura, estilo y color borde*/
+  padding: 10px; /*espacio alrededor texto*/
+  background-color: white; /*color botón*/
+  color: black; /*color texto*/
+  text-decoration: none; /*decoración texto*/
+  font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+  border-radius: 30px; /*bordes redondos*/
+   display: inline-block;
+   vertical-align:middle;
+   float:right;
+    margin:20px 10px 5px 5px; 
+    font-size: 15px;
+  }
+  
+  .inicio{
+    letter-spacing:18px;
+    line-height:1.5em;
+    
+    
+  }
+  
+  #verde{
+    background-color:#00623d;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    text-align:center;
+    padding: 10px;
+  }
+  
+  .vinculo{
+    color:white;
+  }
+    
+  .rojo{
+    background-color:red;
+    color:white; 
+    width:auto;
+    height:400px;
+  
+  }
+  
+  .venado{
+    float: left;
+    width:500px;
+    height:400px;
+  }
+  
+  .rojot {
+    font-family:'Open Sans', sans-serif;
+    
+    
+  }
+  
+  #rojoh{
+    font-size:30px;
+   padding:0 210px;
+    letter-spacing:20px;
+    display: inline-block;
+    vertical-align: top;
+    
+  }
+  
+  #rojop
+  {
+    font-size:20px;
+    text-align: center;
+    
+  }
+  
+  .boton3
+  {
+   border: 1px solid white; /*anchura, estilo y color borde*/
+  padding: 11px; /*espacio alrededor texto*/
+  background-color: red; /*color botón*/
+  color: white; /*color texto*/
+  text-decoration: none; /*decoración texto*/
+  font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+  border-radius: 30px; /*bordes redondos*/
+   display: inline-block;
+   vertical-align:middle;
+   float:center;
+   margin: 0 0 0 380px;
+    font-size: 15px; 
+  }
+  #rojo2{
+    background-color:red;
+    color:white;
+    width:auto;
+    height:448px;
+  }
+  #perro{
+    float: right;
+    padding: 0 30px;
+    width:560px;
+   
+  }
+  
+  .rojo2{
+   margin: 10px;
+    padding-left: 160px;
+    padding-top:100px;
+   font-family:'Open Sans', sans-serif;  
+  }
+  
+  .rojoh2{
+    font-size:30px;
+    letter-spacing:20px;
+    
+  }
+  
+  .rojop2{
+    font-size:20px;
+    padding: 0 90px;
+  }
+  
+  .boton4{
+   border: 1px solid white; /*anchura, estilo y color borde*/
+  padding: 11px; /*espacio alrededor texto*/
+  background-color: red; /*color botón*/
+  color: white; /*color texto*/
+  text-decoration: none; /*decoración texto*/
+  font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+  border-radius: 30px; /*bordes redondos*/
+   display: inline-block;
+   vertical-align:middle;
+   float:center;
+   margin: 0 0 0 160px;
+    font-size: 15px; 
+  }
+  
+  hr{
+    color:grey;
+    width:1800px;
+  }
+  
+  i{
+    width:30px;
+    font-size:30px;
+    
+  }
+  
+  footer{
+    padding:5px 30px;
+  }
+  
+  a {
+    text-decoration:none;
+    color:black;
+  }
+  
+   
+    
+  
+  
+  
